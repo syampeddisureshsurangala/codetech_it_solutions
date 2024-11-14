@@ -1,0 +1,29 @@
+# CODTECH 8-Week SQL Internship Task
+
+## Online Retail Store Database
+
+### Project Description
+This project is part of the CODTECH 8-week SQL internship program. The task involves developing a comprehensive database for an online retail store. The main objective is to design and implement tables for managing products, customers, orders, and payments. Additionally, the project encompasses writing complex SQL queries to handle customer orders and payment processing.
+
+### Table of Contents
+1. [Project Overview](#project-overview)
+2. [Database Design](#database-design)
+    - [Products Table](#products-table)
+    - [Customers Table](#customers-table)
+    - [Orders Table](#orders-table)
+    - [Payments Table](#payments-table)
+3. [SQL Queries](#sql-queries)
+    - [Insert a New Product](#insert-a-new-product)
+    - [Register a New Customer](#register-a-new-customer)
+    - [Place an Order](#place-an-order)
+    - [Process a Payment](#process-a-payment)
+    - [Update Stock After an Order](#update-stock-after-an-order)
+    - [Retrieve All Orders for a Customer](#retrieve-all-orders-for-a-customer)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+### Project Overview
+The Online Retail Store Database project is designed to streamline the management of an online store's backend. 
+By organizing data into well-structured tables and crafting efficient SQL queries, this project aims to facilitate smooth operations such as product management, customer registration, order processing, and payment handling.
+
