@@ -3,7 +3,7 @@
 **Name:** SURANGALA SYAM PEDDI SURESH  
 **Intern ID:** CT12DS2420  
 **Domain:** SQL  
-**Duration:** This internship will span 8 WEEKS from SEPTEMBER 15th, 2024 to NOVEMBER 15th, 2024  
+**Duration:** SEPTEMBER, 2024 to NOVEMBER, 2024  
 
 ## TASK ONE: Online Retail Store Database
 
