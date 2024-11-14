@@ -1,0 +1,6 @@
+payment_id,order_id,payment_date,amount,payment_status
+1,1,2024-11-01,115.98,Completed
+2,2,2024-11-02,25.99,Completed
+3,3,2024-11-03,199.99,Completed
+4,4,2024-11-05,39.99,Completed
+5,5,2024-11-05,89.99,Completed
